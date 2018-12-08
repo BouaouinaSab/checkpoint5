@@ -1,0 +1,35 @@
+#p2{
+    margin-left: 35px;
+    
+}
+h1{
+    margin-left: 10px;
+}
+p{
+    margin-left: 20px;
+}
+
+.btn-group{
+    width: 100%;
+    background-color: #6c757d;
+   justify-content: center;
+}
+#myselect{
+    background-color: #6c757d;
+    border-color:white;
+    padding: 15px 32px ; 
+}
+#myselect2{
+    background-color: #6c757d;
+    border-color:white;
+    padding: 15px 32px ; 
+}
+.mystyle {
+   font-style: italic;
+}
+.bold{
+    font-weight: 700;
+}
+.khat{
+    text-decoration: underline;
+}
